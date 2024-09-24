@@ -1,0 +1,35 @@
+.index1 {
+    color: whitesmoke;
+}
+
+#index1 {
+    background-color: darkblue;
+}
+
+.back1 {
+    color: whitesmoke;
+}
+
+#table1 {
+    background-color: darkblue;
+}
+
+tr, td, th, table {
+    border: 1px solid black;
+}
+
+#table2 {
+    background-color: yellow;
+}
+
+#table3 {
+    background-color: darkgreen;
+}
+
+.table1 {
+    background-color: purple;
+}
+
+#video1 {
+    background-color: darkmagenta;
+}
